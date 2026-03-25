@@ -4,4 +4,3 @@ __pycache__/
 .env
 data/*.csv
 data/*.json
-.env.example
