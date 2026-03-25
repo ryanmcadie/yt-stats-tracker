@@ -7,6 +7,5 @@ A Python CLI app that fetches YouTube channel statistics, stores timestamped sna
 1. Clone the repository
 2. Create and activate a virtual environment
 3. Install dependencies
-4. Copy `.env.example` to `.env`
-5. Add your YouTube API key
-6. Run the app
+4. Add your YouTube API key
+5. Run the app
