@@ -31,7 +31,7 @@ Copy .env.example to .env and add your YouTube API key:
 ```text
 YOUTUBE_API_KEY=your_real_api_key_here
 ```
-Run
+### 5. Run
 ```bash
 python src/main.py
 ```
